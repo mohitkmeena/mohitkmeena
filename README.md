@@ -40,14 +40,14 @@
 
 ### ✍️ Fun Facts
 - 🏆 CGPA: **7.26** – Balancing academics and real-world development!
-- 🔎 Currently exploring **Machine Learning in Stock Prediction**.
+- 🔎 Currently exploring **Machine learning in Fintech**.
 - 🌟 I believe in continuous learning and enjoy **debugging challenges**.
 
 ---
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohit%20Meena-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohitkmeena)  
-[![GitHub](https://img.shields.io/badge/GitHub-Mohit%20Meena-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohitkmeena)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohit%20Kumar%20Meena-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohitkmeena)  
+[![GitHub](https://img.shields.io/badge/GitHub-Mohit%20Kumar%20Meena-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohitkmeena)
 
 ---
 
