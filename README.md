@@ -1,57 +1,54 @@
-# 👋 Hi, I'm Mohit Kumar Meena! 
+# Mohit Kumar Meena
 
-### 🚀 About Me
-- 🎓 **CSE Student** with a passion for building scalable and secure software solutions.
-- 💻 Currently working on **[Invoice Sharing platform](https://github.com/mohitkmeena/CashFlowMate)**.
-- 🌟 Aspiring **Backend Java Developer** with expertise in Java, Spring Boot, and web security.
-- 🌐 From **Dausa, Rajasthan**.
+## 📌 About Me
 
----
+I am a passionate **Java Backend Developer** with experience in building scalable and efficient applications using **Spring Boot, Hibernate, and Microservices architecture**. I have a strong foundation in **Data Structures & Algorithms**, Database Management, and Software Engineering.
 
-### 🛠️ Technical Skills
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)  
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![AWS Cloud](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
+## 📚 Education
 
----
+- **B.Tech - Computer Science and Engineering**  
+  *Indian Institute of Information Technology, Una*  
+  CGPA: **7.26 (Current)**  
+  **2022 - Present**
 
-### 🔭 Current Projects
-1. **[CLOUDLOG](https://github.com/mohitkmeena/CloudLog.git)**  
-   - **Goal:** Develop a secure gateway for cloud applications with features like user authentication, real-time threat detection, and activity logging.  
-   - **Tech Stack:** Java (Spring Boot), MySQL, Java Security Libraries.
+## 🛠️ Technical Skills
 
----
+- **Languages**: Java, C/C++, SQL (MySQL)
+- **Frameworks & Technologies**: Spring Boot, Spring MVC, Hibernate, J2EE
+- **Tools & Platforms**: Git/GitHub, Postman, VS Code, IntelliJ, Eclipse, Maven, Linux, Docker, Apache Kafka, AWS
 
-### 🌱 Open Source Contributions
-- Exploring contributions in Java-based backend frameworks and security tools.
-- Interested in projects related to **cloud security**, **Fintech**,**BIG DATA** and **AI-driven applications**.
+## 🚀 Projects
 
----
+### 🔹 Banking Backend Project *(Dec 2024 - Jan 2025)*
+- Developed a scalable backend system for core banking functionalities like account management, transactions, and loan processing.
+- Implemented **microservices architecture** and **event-driven processing** using Kafka.
+- Integrated **Spring Security**, JWT authentication, and encryption for secure transactions.
 
-### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohitkmeena&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitkmeena&layout=compact&theme=radical)  
+### 🔹 Invoice Payment System *(Jan 2025 - Feb 2025)*
+- Built an online **invoice payment processing system** with **Stripe API integration**.
+- Developed **real-time payment tracking**, webhook handling, and automated invoice generation.
+- Ensured **PCI DSS compliance** and optimized API performance using caching.
 
+### 🔹 Expense Tracker App *(Feb 2025 - Mar 2025)*
+- Created a **microservices-based expense tracking system**.
+- Implemented **JWT authentication**, **role-based access control**, and automated expense categorization.
+- Integrated **scheduled notifications** for bill reminders and monthly expenditure reports.
 
----
+## 📖 Relevant Coursework
 
-### ✍️ Fun Facts
-- 🏆 CGPA: **7.26** – Balancing academics and real-world development!
-- 🔎 Currently exploring **Machine learning in Fintech**.
-- 🌟 I believe in continuous learning and enjoy **debugging challenges**.
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Database Management Systems
+- Computer Networks
+- Software Engineering
+- Operating Systems
+- Machine Learning
 
----
+## 📬 Connect with Me
 
-### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohit%20Kumar%20Meena-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohitkmeena)  
-[![GitHub](https://img.shields.io/badge/GitHub-Mohit%20Kumar%20Meena-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohitkmeena)
+- **GitHub**: [mohitkmeena](https://github.com/mohitkmeena)
+- **LinkedIn**: [linkedin.com/in/mohitkmeena](https://www.linkedin.com/in/mohitkmeena)
+- **Email**: [mohitmeenag2005@gmail.com](mailto:mohitmeenag2005@gmail.com)
 
 ---
-
-Let’s collaborate and build something amazing together! 🚀
+**Let's build something amazing together!** 🚀
